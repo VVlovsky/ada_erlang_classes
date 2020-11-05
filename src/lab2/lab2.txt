@@ -1,0 +1,41 @@
+Console Output:
+❯ ./lab2
+Element at the index 1 in the Array is 1.00000E+00
+Element at the index 2 in the Array is 1.00000E+00
+Element at the index 3 in the Array is 1.00000E+00
+Element at the index 4 in the Array is 1.00000E+00
+Element at the index 5 in the Array is 1.00000E+00
+Element at the index 6 in the Array is 1.00000E+00
+Element at the index 7 in the Array is 1.00000E+00
+Element at the index 8 in the Array is 1.00000E+00
+Element at the index 9 in the Array is 1.00000E+00
+Element at the index 10 in the Array is 1.00000E+00
+Element at the index 1 in the Array is 4.53681E-01
+Element at the index 2 in the Array is 3.54837E-02
+Element at the index 3 in the Array is 4.76448E-01
+Element at the index 4 in the Array is 5.73440E-02
+Element at the index 5 in the Array is 5.63493E-01
+Element at the index 6 in the Array is 2.46108E-01
+Element at the index 7 in the Array is 9.56688E-01
+Element at the index 8 in the Array is 7.63146E-02
+Element at the index 9 in the Array is 4.08090E-01
+Element at the index 10 in the Array is 6.54083E-01
+Element at the index 1 in the Array is 3.54837E-02
+Element at the index 2 in the Array is 5.73440E-02
+Element at the index 3 in the Array is 7.63146E-02
+Element at the index 4 in the Array is 2.46108E-01
+Element at the index 5 in the Array is 4.08090E-01
+Element at the index 6 in the Array is 4.53681E-01
+Element at the index 7 in the Array is 4.76448E-01
+Element at the index 8 in the Array is 5.63493E-01
+Element at the index 9 in the Array is 6.54083E-01
+Element at the index 10 in the Array is 9.56688E-01
+
+Program najpierw wyświetla nową tablicę, po czym wypelnia ją
+losowymi liczbami typu Float, ponownie wyświetla, po czym sprawdza
+czy tablica jest posortowana i jeżeli nie to sortuje ją algorytmem Bubble Sort
+i wyświetla ostatni trzeci raz.
+
+Udało się zrobić wszystko, jednak zajęły bardzo dużo czasu próby implementcji bardziej
+wydajnych algorytmów sortowania niż bubble sort.
+

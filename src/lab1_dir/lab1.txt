@@ -1,0 +1,32 @@
+ERLANG
+
+❯ erl
+Erlang/OTP 22 [erts-10.6.4] [source] [64-bit] [smp:12:12] [ds:12:12:10] [async-threads:1]
+
+Eshell V10.6.4  (abort with ^G)
+1> c(lab1).
+lab1.erl:5: Warning: export_all flag enabled - all functions will be exported
+{ok,lab1}
+2> lab1:add(3, 2)
+2> .
+5
+3> lab1:avg(8, 17).
+12.5
+4> lab1:factorial(7).
+5040
+5>
+
+
+ADA
+
+❯ gnatmake lab1.adb
+gnatmake: "lab1" up to date.
+❯ ./lab1r
+Suma =  7.00000E+00
+Max = 8.90000E+00
+Max2 = 8.90000E+00
+Avg = 4.00000E+00
+Factorial = 5040
+Ciąg Fibonacciego dla N=  12
+ 1  1  2  3  5  8  13  21  34  55  89  144
+

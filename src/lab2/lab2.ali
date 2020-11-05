@@ -1,0 +1,25 @@
+V "GNAT Lib v9"
+M P W=b
+P ZX
+
+RN
+RV NO_FLOATING_POINT
+RV SPARK_05
+
+U lab2%b		lab2.adb		b51ba37b NE OO SU
+W arr%s			arr.adb			arr.ali
+
+D arr.ads		20201016015324 3c554805 arr%s
+D lab2.adb		20201016015324 894eeb7e lab2%b
+D system.ads		20200312110721 4635ec04 system%s
+X 1 arr.ads
+1K9*Arr 8e8 2|1w6 6r8 9r3 10r3 11r3 13r6 14r5 16r5 17r5
+3A6*Float_Array(float)<integer> 2|6r12
+4U11*Console_Out 2|9s7 11s7 14s9 17s9
+5U11*Fill 2|10s7
+6V10*Check_Sort{boolean} 2|13s10
+7U11*Bubble_Sort 2|16s9
+X 2 lab2.adb
+3U11*Lab2 3b11 20l5 20t9
+6a3 T1{1|3A6} 9r19 10m12 11r19 13r21 14r21 16m21 16r21 17r21
+
